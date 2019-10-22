@@ -1,2 +1,3 @@
-# Midterm-Project_MAT
-Mofe Barrow, Angie Lao, Tiffany Thomas
+# Explaining the Trash Crisis in Baltimore
+By: Mofe Barrow, Angie Lao, Tiffany Thomas
+
