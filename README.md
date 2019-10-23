@@ -1,7 +1,7 @@
 # Explaining the Trash Crisis in Baltimore
 By: Mofe Barrow, Angie Lao, Tiffany Thomas
 
-TWO TO THREE SENTENCES 
+Does Baltimore have a trash crisis? After conducting an in-depth analysis, we found certain hotspots where the city can improve on trash disposal locations and services. Through addressing this issue with solutions proposed below, millions of taxpayer dollars can be saved each year.  
 
 # Why is this challenge a problem?
 
