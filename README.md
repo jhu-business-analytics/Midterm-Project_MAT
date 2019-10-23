@@ -13,7 +13,9 @@ With this data, we reached our business answer: while Baltimore has issues with 
 
 # Future Suggestions
 
-insert here
+The call to action is that Baltimore needs to increase accessibility of proper trash disposal locations/services through policy change and social initiatives. Through policy changes that enable more frequent weekly trash pick-ups or add additional trash disposal locations in high risk trash neighborhoods, residents will be more likely to dispose trash properly and reduce the detrimental impacts of trash accumulation. In addition, Baltimore can increase awareness of proper trash disposal behaviors, and can work with the Bloomberg School of Public Health to initiate a city-wide public health campaigns around trash accessibility. 
+The people of Baltimore will be have more pride in their city knowing that it will no longer be called a “trashy” or “disgusting...mess”. Residents will see their health improve with less harmful trash in their surroundings. By removing Baltimore’s “trashy” label, this city may see an increase in tourism and outside commerce which can lead to increased revenue and economic opportunities. 
 
 # Data Analysis
 
+Files with our accumulated and filtered data can be found under our repository main page.
