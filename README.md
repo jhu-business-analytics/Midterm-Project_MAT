@@ -20,4 +20,8 @@ The people of Baltimore will be have more pride in their city knowing that it wi
 
 # Data Analysis
 
-Files with our accumulated and filtered data can be found under our repository main page.
+![Frequency of the revelant citation categories](https://imgur.com/pjtalbf)
+![Number of citations per city council district](https://imgur.com/iypLoDz)
+![Comparison of the relevant citation numbers in Districts 12 and 13](https://imgur.com/CXHgGEa)
+![Trash accumulation citations per year linear regression](https://imgur.com/hneMhA2)
+![Trash accumulation citations per year exponential regression](https://imgur.com/CsKMsyE)
