@@ -1,7 +1,7 @@
 # Explaining the Trash Crisis in Baltimore
 By: Mofe Barrow, Angie Lao, Tiffany Thomas
 
-Given [President Trump's attack] (https://www.npr.org/2019/08/15/751501433/trump-tweets-on-disgusting-baltimore-bring-activist-trash-collectors-to-city) on Baltimore as a 'rat-infested' city, this project explored the validity of this statement to answer one question: does Baltimore have a trash crisis? By analyzing Baltimore City environmental citations from 2003-2019 through pivot tables and linear regression models, we found 'trash accumulation and 'high grass and weeds' as the most frequent citations. Districts 12 and 13 were 'hot spots' of the highest number of citations ranging from dumping, trash accumulation, and high grass and weeds. Future suggesstions include increasing accessibility of proper trash disposal locations/services through policy change and social initiatives.
+Given [President Trump's attack](https://www.npr.org/2019/08/15/751501433/trump-tweets-on-disgusting-baltimore-bring-activist-trash-collectors-to-city) on Baltimore as a 'rat-infested' city, this project explored the validity of this statement to answer one question: does Baltimore have a trash crisis? By analyzing Baltimore City environmental citations from 2003-2019 through pivot tables and linear regression models, we found 'trash accumulation and 'high grass and weeds' as the most frequent citations. Districts 12 and 13 were 'hot spots' of the highest number of citations ranging from dumping, trash accumulation, and high grass and weeds. Future suggesstions include increasing accessibility of proper trash disposal locations/services through policy change and social initiatives.
 
 # Why is this challenge a problem?
 
