@@ -30,5 +30,8 @@ Using the pivot table, we took a more in depth analysis of geographic hot spots 
 Using the pivot table again to take a deeper dive into which citations were most common in our district "hot spots", District 12 (blue) had the most citations under 'dumping under 25lbs of waste on public property'. District 13 (orange) had the most citations under 'high grass and weeds' and 'trash accumulation'. As shown in the graph, trash and dumping are still very prevalent in these hot spot regions.
 
 ![Trash accumulation citations per year linear regression](https://i.imgur.com/hneMhA2.png)
-Using a simple linear regression, we 
+Using a simple linear regression, we found a trend line that best fit our data points. With an R^2 value of .6003, 60.03% of our data can be explained by this linear trend. The slope of 299 implies that every year, there is an expected increase of around 300 additional citations. 
+
 ![Trash accumulation citations per year exponential regression](https://i.imgur.com/CsKMsyE.png)
+Lastly, we found that an exponential linear regression was a better fit for the data points, resulting in an R^2 value of .9284, meaning 92.8% of our data can be explained by this line. 
+
