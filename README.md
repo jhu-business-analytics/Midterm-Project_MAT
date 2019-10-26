@@ -1,7 +1,7 @@
 # Explaining the Trash Crisis in Baltimore
 By: Mofe Barrow, Angie Lao, Tiffany Thomas
 
-Does Baltimore have a trash crisis? After conducting an in-depth analysis, we found certain hotspots where the city can improve on trash disposal locations and services. Through addressing this issue with solutions proposed below, millions of taxpayer dollars can be saved each year.  
+Given President Trump's attack on Baltimore as a 'rat-infested' city, this project explored the validity of this statement to answer one question: does Baltimore have a trash crisis? By analyzing environmental citations of Baltimore City from 2003-2019 through pivot tables and linear regression models, we found 'trash accumulation and 'high grass and weeds' as the most frequent citations, Districts 12 and 13 as 'hot spots' of frequent citations ranging from dumping, trash accumulation, and high grass and weeds. Future suggesstions include increasing accessibility of proper trash disposal locations/services through policy change and social initiatives.
 
 # Why is this challenge a problem?
 
